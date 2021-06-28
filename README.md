@@ -2,12 +2,12 @@
 
 ## INSTALLATION
 
-Python >= 3.6
-Tensorflow >= 2.1.0
-Pandas
-Numpy
-Scipy
-scikit-learn
+- Python >= 3.6
+- Tensorflow >= 2.1.0
+- Pandas
+- Numpy
+- Scipy
+- scikit-learn
 
 Please run 
 
