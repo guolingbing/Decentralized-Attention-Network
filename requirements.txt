@@ -1,0 +1,5 @@
+tensorflow-gpu==2.1.0
+pandas
+numpy
+scipy
+scikit-learn
